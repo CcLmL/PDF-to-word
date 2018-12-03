@@ -1,0 +1,4 @@
+[default]
+pdf_folder = /home/python/Desktop/wordtoPDF/PDF
+word_folder= /home/python/Desktop/wordtoPDF/word
+wordmax_worker = 5
